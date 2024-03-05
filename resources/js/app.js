@@ -25,7 +25,6 @@ import Func from "@/function/system.js";
 import '@/static/css/system.css';
 
 
-// Vue.use(mavonEditor)
 Vue.use(ElementUI);
 Vue.use(VueCookie);
 Vue.use(Pagination);
