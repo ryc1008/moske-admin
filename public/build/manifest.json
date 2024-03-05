@@ -672,7 +672,7 @@
       "resources/js/views/system/manager/logger.vue",
       "resources/js/views/system/manager/safe.vue"
     ],
-    "file": "assets/app-64dc16a0.js",
+    "file": "assets/app-cf52f51d.js",
     "imports": [
       "_w-e6fba1f3.js",
       "_vue-9f7ddc78.js",
@@ -1200,7 +1200,7 @@
       "assets/advert-e582a00c.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/advert-ae213ffb.js",
+    "file": "assets/advert-f785b286.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "_vuedraggable-c4a8ffc8.js",
@@ -1280,7 +1280,7 @@
       "assets/index-232e27a9.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/index-6cd17751.js",
+    "file": "assets/index-9d8186d4.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1353,7 +1353,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/setting-27f40533.js",
+    "file": "assets/setting-1dfc9357.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1431,7 +1431,7 @@
       "assets/tag-b97a70b5.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/tag-01fa785b.js",
+    "file": "assets/tag-f229f669.js",
     "imports": [
       "resources/js/app.js",
       "_vue-verify-code-21b6e9ae.js",
@@ -1509,7 +1509,7 @@
       "assets/type-4eee76ef.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/type-e85e4435.js",
+    "file": "assets/type-32bd7301.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1582,7 +1582,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/comic-c8321af0.js",
+    "file": "assets/comic-4f76791e.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1655,7 +1655,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/lady-f3d3668b.js",
+    "file": "assets/lady-6ab2e54e.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1728,7 +1728,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/novel-27bf63b7.js",
+    "file": "assets/novel-591d749a.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1801,7 +1801,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/photo-009ea484.js",
+    "file": "assets/photo-39982cfe.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1874,7 +1874,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/story-14013913.js",
+    "file": "assets/story-c29ca8e2.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -1992,7 +1992,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/payment-6cd66f23.js",
+    "file": "assets/payment-f7998ceb.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2092,16 +2092,79 @@
     "src": "resources/js/views/system/game/gamble.vue"
   },
   "resources/js/views/system/game/index.css": {
-    "file": "assets/index-9c5625a5.css",
+    "file": "assets/index-57d77f08.css",
     "src": "resources/js/views/system/game/index.css"
   },
   "resources/js/views/system/game/index.vue": {
     "css": [
-      "assets/index-9c5625a5.css"
+      "assets/index-57d77f08.css",
+      "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/index-7b764849.js",
+    "file": "assets/index-cd0ae71b.js",
     "imports": [
-      "_vue-verify-code-21b6e9ae.js"
+      "_vuex-fb1740e5.js",
+      "resources/js/app.js",
+      "_vue-verify-code-21b6e9ae.js",
+      "_w-e6fba1f3.js",
+      "_axios-5ae1da96.js",
+      "_vue-9f7ddc78.js",
+      "_async-validator-68c927eb.js",
+      "_babel-runtime-b0e6bb14.js",
+      "_crypto-js-e93d4fbc.js",
+      "_element-tiptap-f39d3908.js",
+      "_tiptap-cd99e86f.js",
+      "_prosemirror-state-aff6b6a5.js",
+      "_prosemirror-model-e99bf1dc.js",
+      "_orderedmap-1ac72264.js",
+      "_prosemirror-transform-0ba15ba3.js",
+      "_prosemirror-view-e30b2d7a.js",
+      "_prosemirror-dropcursor-41f27ba8.js",
+      "_prosemirror-gapcursor-8cdc000d.js",
+      "_prosemirror-keymap-e0a1e6d1.js",
+      "_w3c-keyname-5afe5a41.js",
+      "_prosemirror-commands-994280f1.js",
+      "_prosemirror-inputrules-51b7290b.js",
+      "_tiptap-utils-1e7277fa.js",
+      "_tiptap-extensions-b74a4f9a.js",
+      "_tiptap-commands-9e395e16.js",
+      "_prosemirror-schema-list-a2d0a333.js",
+      "_highlight.js-45c9f23d.js",
+      "_fault-4bc10d66.js",
+      "_format-ca30c10a.js",
+      "_prosemirror-history-094ab62a.js",
+      "_rope-sequence-72d4f3ff.js",
+      "_prosemirror-utils-15148092.js",
+      "_prosemirror-tables-78b83e4c.js",
+      "_element-ui-85fcec33.js",
+      "_resize-observer-polyfill-26170312.js",
+      "_throttle-debounce-f2d3495b.js",
+      "_babel-helper-vue-jsx-merge-props-ae7f6986.js",
+      "_normalize-wheel-2c441d7d.js",
+      "_deepmerge-1c41bee1.js",
+      "_image-conversion-5dc521cd.js",
+      "_nprogress-e46a079b.js",
+      "_vue-cookie-f9b70f6c.js",
+      "_tiny-cookie-01c919d1.js",
+      "_moment-0b360bb8.js",
+      "_xgplayer-ddb6d22b.js",
+      "_eventemitter3-91a3dd57.js",
+      "_delegate-333e72eb.js",
+      "_downloadjs-bf7647fe.js",
+      "_xgplayer-hls-e482b1c5.js",
+      "_xgplayer-streaming-shared-a05e1a43.js",
+      "_xgplayer-transmuxer-2825904a.js",
+      "_xgplayer-music-47c62e3d.js",
+      "_vue-router-29840f2f.js",
+      "_vue-axios-5ff5ffea.js",
+      "_qs-7cd75b61.js",
+      "_side-channel-c3af32fe.js",
+      "_get-intrinsic-bac01933.js",
+      "_has-symbols-456daba2.js",
+      "_has-proto-4a87f140.js",
+      "_function-bind-72d06d3b.js",
+      "_has-885c3436.js",
+      "_call-bind-fae29077.js",
+      "_object-inspect-d5fba9a3.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/views/system/game/index.vue"
@@ -2127,7 +2190,7 @@
       "assets/index-717730a9.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/index-9cdff8c5.js",
+    "file": "assets/index-8651e881.js",
     "imports": [
       "resources/js/app.js",
       "_vue-verify-code-21b6e9ae.js",
@@ -2205,7 +2268,7 @@
       "assets/index-849b3425.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/index-256b32a5.js",
+    "file": "assets/index-a361a9dd.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "_echarts-d47ee07c.js",
@@ -2286,7 +2349,7 @@
       "assets/access-ca9c792f.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/access-66fbb3de.js",
+    "file": "assets/access-e7b305b2.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2364,7 +2427,7 @@
       "assets/authen-20832006.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/authen-a0a7b379.js",
+    "file": "assets/authen-d1a94b9d.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2442,7 +2505,7 @@
       "assets/index-991df4eb.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/index-0df433e4.js",
+    "file": "assets/index-49f7bb9f.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2520,7 +2583,7 @@
       "assets/logger-cfcf0330.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/logger-519b2e69.js",
+    "file": "assets/logger-060df5c3.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2593,7 +2656,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/role-1f9b1a16.js",
+    "file": "assets/role-c730cab1.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2671,7 +2734,7 @@
       "assets/safe-abf30c22.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/safe-22b625e0.js",
+    "file": "assets/safe-ec2beeae.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2741,15 +2804,15 @@
     "src": "resources/js/views/system/manager/safe.vue"
   },
   "resources/js/views/system/media/live.css": {
-    "file": "assets/live-54863b49.css",
+    "file": "assets/live-e96dcdf0.css",
     "src": "resources/js/views/system/media/live.css"
   },
   "resources/js/views/system/media/live.vue": {
     "css": [
-      "assets/live-54863b49.css",
+      "assets/live-e96dcdf0.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/live-b71fe513.js",
+    "file": "assets/live-0bb139e7.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2827,7 +2890,7 @@
       "assets/playlet-ced6a4f1.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/playlet-37035aaa.js",
+    "file": "assets/playlet-a6d7ece7.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2900,7 +2963,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/sound-26dea4e2.js",
+    "file": "assets/sound-a764426c.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -2978,7 +3041,7 @@
       "assets/video-401a4d0d.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/video-e0d8ba20.js",
+    "file": "assets/video-e116505c.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -3071,7 +3134,7 @@
       "assets/canal-33188fed.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/canal-7bc4ce91.js",
+    "file": "assets/canal-8347672c.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -3164,7 +3227,7 @@
       "assets/index-87302731.css",
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/index-eeadfcb3.js",
+    "file": "assets/index-ba4d5795.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
@@ -3252,7 +3315,7 @@
     "css": [
       "assets/font-awesome-e94916db.css"
     ],
-    "file": "assets/vip-ae8392ec.js",
+    "file": "assets/vip-357c4ae2.js",
     "imports": [
       "_vuex-fb1740e5.js",
       "resources/js/app.js",
